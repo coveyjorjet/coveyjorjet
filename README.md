@@ -17,15 +17,15 @@
 
 - 🔭 I’m currently working on random projects that can help to improve my skills
 
-- 🌱 I’m currently learning **C#, Html, Css, Javascript**
+- 🌱 I’m currently learning **Embedded C and Linux Bash/Shell Scripting**
 
 - 👯 I’m looking for some projects i can contribute my skills
 
-- 👨‍💻 All of my projects are available at [https://github.com/coveyjorjet](https://github.com/coveyjorjet)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/coveyjorjet?tab=repositories)
 
 - 💬 Ask me about **C++, Java, Python, Arduino Programming and Prototyping**
 
-- 📫 How to reach me <a href = 'https://www.linkedin.com/in/coveyjorjet/'> <img width = '90px' height='30px' align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail"/>
+- 📫 How to reach me <a href = "mailto:cjdeluna1423@gmail.com?&subject= About You"> <img width = '90px' height='30px' align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail"/>
 </a>
 
 - ⚡ Fun fact **"Hello World" makes me a programmer**
@@ -66,6 +66,8 @@
 <h2> My Repositories</h2>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coveyjorjet&repo=Detachable-Arduino-Based-Safety-Helmet-for-Motorcycle-Drivers&theme=merko#gh-dark-mode-only)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coveyjorjet&repo=firewall-inject-vpn&theme=merko#gh-dark-mode-only)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coveyjorjet&repo=coveyjorjet.github.io&theme=merko#gh-dark-mode-only)
 
