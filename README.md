@@ -1,79 +1,78 @@
-<div align='center'>
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
-</div>
+<h1 align="center">Covey Jorjet De Luna</h1>
 
-<h1 align='center'>Hello, I'm Covey Jorjet De Luna<img align='center' src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align="center">
+  Linux Edge Systems Engineer. I keep edge devices configured, deployed and running.
+</p>
 
-<!-- https://visitor-badge.glitch.me/badge?page_id=coveyjorjet.coveyjorjet -->
-<!-- <p align='center'> <img src="https://komarev.com/ghpvc/?username=coveyjorjet&label=Total%20Visitor&style=flat&left_color=green&right_color=red"alt="coveyjorjet" /> </p> -->
+```console
+covey@edge:~$ cat /etc/os-release
+NAME="Covey"
+ROLE="Linux Edge Systems Engineer"
+PREVIOUS_ROLE="Embedded Software Engineer"
+BASE="Philippines"
+PRIMARY="C C++ C#"
+SCRIPTING="Bash Python"
+LEARNING="Go Rust"
+DAILY_DRIVER="NVIDIA Jetson, Puppet, AWS"
 
-<h3 align="center">A fresh graduate Computer Engineer</h3>
+covey@edge:~$ dmesg | tail -4
+[ ok ] jetson: flashed
+[ ok ] puppet: catalog applied
+[ ok ] aws: instance reachable
+[warn] coffee: low
+```
 
-<h2> About Me 
-<img align='center' src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
-</h2>
+## What I do
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+I work on Linux at the edge. That means NVIDIA Jetson boards, fleet configuration with Puppet, and cloud infrastructure on AWS, with C, C++ and C# for the application side and Bash and Python to glue everything together.
 
-- 🔭 I’m currently working on random projects that can help to improve my skills
+Before this I spent years as an Embedded Software Engineer, so I still think about memory, boot times and what happens when the power drops.
 
-- 🌱 I’m currently learning **Embedded C and Linux Bash/Shell Scripting**
+## Toolbox
 
-- 👯 I’m looking for some projects i can contribute my skills
+<p>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/nvidia-76B900?style=flat&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/puppet-FFAE1A?style=flat&logo=puppet&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/coveyjorjet?tab=repositories)
+## Currently learning
 
-- 💬 Ask me about **C++, Java, Python, Arduino Programming and Prototyping**
+<p>
+<img src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white" />
+</p>
 
-- 📫 How to reach me <a href = "mailto:cjdeluna1423@gmail.com?&subject= About You"> <img width = '90px' height='30px' align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail"/>
-</a>
+## Ask me about
 
-- ⚡ Fun fact **"Hello World" makes me a programmer**
+- Setting up and flashing NVIDIA Jetson boards
+- Managing a fleet of Linux machines with Puppet
+- Moving from embedded firmware to edge and cloud work
+- Turning a pile of shell scripts into something maintainable
 
-<h2> Language and Tools <img align='center' src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/coveyjorjet?tab=repositories&q=&type=&language=cpp&sort= > <img width ='90px' height='30px' src ='https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white'> </a>
-<a href= https://github.com/coveyjorjet?tab=repositories&q=&type=&language=java&sort= > <img width ='90px' height='30px' src ='https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white'> </a>
-<a href= https://github.com/coveyjorjet?tab=repositories&q=&type=&language=python&sort= > <img width ='90px' height='30px' src ='https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54'> </a>
-<a href= https://github.com/coveyjorjet?tab=repositories&q=&type=&language=android&sort= > <img width ='90px' height='30px' src ='https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white'> </a>
-<a href= https://github.com/coveyjorjet?tab=repositories&q=&type=&language=arduino&sort= > <img width ='90px' height='30px' src ='https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white'> </a>
+## Last week in code
 
+![Total time coded](https://wakatime.com/badge/user/c3e45894-17b0-412b-969d-8f4e4efc265e.svg)
 
-<h2> Connect with me <img align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-
-<a href = 'https://www.linkedin.com/in/coveyjorjet/'> <img width = '90px' height='30px' align= 'center' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-</a> 
-<a href = 'https://www.facebook.com/coveyjorjet/'> <img width = '90px' height='30px' align= 'center' src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/>
-</a>
-<a href = 'https://m.me/coveyjorjet/'> <img width = '90px' height='30px' align= 'center' src="https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white"/>
-</a>
-<a href = 'https://t.me/coveyjorjet'> <img width = '90px' height='30px' align= 'center' src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
-</a>
-
-<h2> Stuff I worked on last week  <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coveyjorjet&theme=merko&layout=compact#gh-dark-mode-only)
-<br>
-
-
-<h2> My GitHub Stats <img align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+![Covey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coveyjorjet&theme=merko&layout=compact#gh-dark-mode-only)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coveyjorjet&show_icons=true&locale=en&theme=merko&hide=prs,issues#gh-dark-mode-only)
 
-<h2> Most used Language in my Repositories</h2>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coveyjorjet&hide_progress=true&theme=merko#gh-dark-mode-only)
 
-<h2> My Repositories</h2>
+## Pinned
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coveyjorjet&repo=Detachable-Arduino-Based-Safety-Helmet-for-Motorcycle-Drivers&theme=merko#gh-dark-mode-only)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coveyjorjet&repo=coveyjorjet.com&theme=merko#gh-dark-mode-only)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coveyjorjet&repo=firewall-inject-vpn&theme=merko#gh-dark-mode-only)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coveyjorjet&repo=portfolio&theme=merko#gh-dark-mode-only)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coveyjorjet&repo=coveyjorjet.github.io&theme=merko#gh-dark-mode-only)
+## Find me
 
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-<br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coveyjorjet&" alt="coveyjorjet" /></p>
-<br> -->
+[Website](https://coveyjorjet.com) · [Portfolio](https://portfolio.coveyjorjet.com) · [Email](mailto:cjdeluna1423@gmail.com) · [LinkedIn](https://www.linkedin.com/in/coveyjorjet/) · [Telegram](https://t.me/coveyjorjet) · [Facebook](https://www.facebook.com/coveyjorjet/) · [All repositories](https://github.com/coveyjorjet?tab=repositories)
